@@ -1,5 +1,5 @@
 replicaCount: 1
-namespace: ajeet-test
+namespace: default
 
 backend:
   image: shreybatra/sample-backend
